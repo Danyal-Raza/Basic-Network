@@ -1,3 +1,12 @@
+# 🌐 Basic Network Setup in Cisco Packet Tracer
+
+This project demonstrates a **simple but functional network topology** built using **Cisco Packet Tracer**. The goal of this setup is to showcase basic inter-network communication using **one router**, **two switches**, and **four end devices (PCs)**.
+
+---
+
+## 🛠️ Network Topology Overview
+
+The network is logically divided into **two subnets**, each connected to a different switch and routed via a central router.
 
 ### 🔹 Left Side (Subnet 1):
 - **Network:** `192.168.1.0/24`
